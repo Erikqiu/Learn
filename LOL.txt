@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 abc
 123
 345
 gfg
+=======
+abc
+>>>>>>> parent of 29a6c0f... Update LOL.txt
 =======
 abc
 >>>>>>> parent of 29a6c0f... Update LOL.txt
